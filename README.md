@@ -1,5 +1,5 @@
 ### QmelZ
-- Currently working on: [Void](https://github.com/QmelZ/Void) (i know the name sucks, i cant find a better name h)
+- Currently working on: [Hackustry](https://github.com/QmelZ/Hackustry)
 - A bit of javascript knowledge
 - Sucks at spriting
 - You can stop reading this
