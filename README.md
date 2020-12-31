@@ -1,5 +1,5 @@
 ### QmelZ
-- Currently working on: [Hackustry](https://github.com/QmelZ/Hackustry)
+- Currently working on: <insert mod name here> (i really dont know what i am doing)
 - A bit of javascript knowledge
 - Sucks at spriting
 - You can stop reading this
